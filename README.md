@@ -161,6 +161,18 @@ SDG 15 – Life on Land
 
 ---
 
+
+---
+
+Output Screens :
+<img width="1600" height="852" alt="WhatsApp Image 2026-09-08 at 10 33 53 AM" src="https://github.com/user-attachments/assets/0d7b07c0-1dd0-4d38-a833-5e1424fd2ca9" />
+
+<img width="1599" height="832" alt="WhatsApp Image 2026-09-08 at 10 34 03 AM" src="https://github.com/user-attachments/assets/f48f3f30-5f31-4c14-8d23-90c98363cbfb" />
+
+<img width="1599" height="836" alt="WhatsApp Image 2026-09-08 at 10 34 17 AM" src="https://github.com/user-attachments/assets/2e10af19-7937-40ab-8620-931e374c24b3" />
+
+---
+
 Future Enhancements
 
 • AI-powered Waste Image Recognition
